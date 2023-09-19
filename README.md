@@ -7,8 +7,7 @@ Grapple Ballkour is a platformer game that utilizes physics to help a ball grapp
 * 10+ Skins and Powerups to be purchased with in-game currency, which can be earned by playing the game!
 * Engaging grappling animations, particle effects, and sound effects for a fun gaming experience!
 
-Currently deployed on the Google Play Store: 
-https://play.google.com/store/apps/details?id=com.EcxLStudios.GrappleBallkour&pli=1.
+Currently deployed on the Google Play Store: https://play.google.com/store/apps/details?id=com.EcxLStudios.GrappleBallkour&pli=1.
 <br/>
 
 * Built by Tommy Su & Rui Li & Jason Pan
